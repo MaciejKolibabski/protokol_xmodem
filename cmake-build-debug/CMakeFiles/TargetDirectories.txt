@@ -1,0 +1,3 @@
+C:/Users/macie/CLionProjects/Telekomunikacja2/cmake-build-debug/CMakeFiles/Telekomunikacja2.dir
+C:/Users/macie/CLionProjects/Telekomunikacja2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/macie/CLionProjects/Telekomunikacja2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
